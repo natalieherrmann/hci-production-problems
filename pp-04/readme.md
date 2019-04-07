@@ -25,8 +25,9 @@ Small commits to your Production Problems repository that include:
 2. an explanation of three different points of guidance from your chosen guidelines (point to the
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
-* HCI Guideline One (URL):
+* HCI Guideline One (URL): https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/color/
 * Describe how you implemented that guideline in your sketch:
+Use an accent color (a blue they use on their homepage) to make it clear what form elements are clickable. Interactive elements should be a different color from non-interactive text so it's immediately clear what you can and should click. In sketch_color_type.png, the drop down and text entry at the bottom are outlined in blue to distinguish it from the black text; the price/donation entry is black since it autofills and cannot be interacted with. In sketch_input.png, the price/donation entry is outlined in blue since it can be interacted with.
 
 * HCI Guideline Two (URL):
 * Describe how you implemented that guideline in your sketch:
