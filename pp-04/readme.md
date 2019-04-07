@@ -33,5 +33,6 @@ Use an accent color (a blue they use on their homepage) to make it clear what fo
 * Describe how you implemented that guideline in your sketch:
 The text for "Benefits for x Members include:" before the bulleted list is now bigger and bolded since information about a particular membership is important and the start of the section should be more emphasized.
 
-* HCI Guideline Three (URL):
+* HCI Guideline Three (URL): https://developer.apple.com/design/human-interface-guidelines/ios/controls/text-fields/
 * Describe how you implemented that guideline in your sketch:
+The price/donation field did not have a number-exclusive keyboard. Since the input is asking for a number, the design now pulls up a numeric keyboard to streamline the process and avoid invalid inputs (see sketch_input.png). The input also starts out with a hint that is the minimum value required for the particular membership.
