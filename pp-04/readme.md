@@ -29,8 +29,9 @@ Small commits to your Production Problems repository that include:
 * Describe how you implemented that guideline in your sketch:
 Use an accent color (a blue they use on their homepage) to make it clear what form elements are clickable. Interactive elements should be a different color from non-interactive text so it's immediately clear what you can and should click. In sketch_color_type.png, the drop down and text entry at the bottom are outlined in blue to distinguish it from the black text; the price/donation entry is black since it autofills and cannot be interacted with. In sketch_input.png, the price/donation entry is outlined in blue since it can be interacted with.
 
-* HCI Guideline Two (URL):
+* HCI Guideline Two (URL): https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/typography/
 * Describe how you implemented that guideline in your sketch:
+The text for "Benefits for x Members include:" before the bulleted list is now bigger and bolded since information about a particular membership is important and the start of the section should be more emphasized.
 
 * HCI Guideline Three (URL):
 * Describe how you implemented that guideline in your sketch:
